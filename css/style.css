@@ -86,7 +86,7 @@
 .mbl-carousel-wrapper .mbl-carousel .mbl-carousel-cell .explore {
   position: absolute;
   font-weight: 700;
-  margin: 45px auto 0 auto;
+  margin: 0px auto 0 auto;
   left: 50%;
   transform: translate(-50%);
   opacity: 0;
